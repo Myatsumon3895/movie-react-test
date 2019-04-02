@@ -1,0 +1,21 @@
+
+.App-sidebar ul {
+    list-style: none;
+    display: table;
+    padding: 0;
+    margin: 0;
+    margin-top: 2%;
+}
+.App-sidebar ul li {
+    width: 100px;
+    background: #ccc;
+    float: left;
+    margin-right: 15px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.sidebar-menu__item a.is-active,
+.sidebar-menu__item:hover a{
+  color: #FF424F;
+}

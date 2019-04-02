@@ -1,0 +1,23 @@
+.SearchBar-wrapper form {
+      position: relative;
+}
+
+.SearchBar-wrapper form input {
+  width: 100%;
+  background: #333;
+  border: none;
+  border-bottom: 1px solid #bbb;
+  padding: 5px 15px;
+  margin-top: 3%;
+}
+
+.SearchBar-wrapper form svg {
+  position: absolute;
+    top: 10px;
+    left: 0;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: auto;
+    fill: #ffffff;
+    margin-top: 115px;
+}

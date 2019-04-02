@@ -1,0 +1,7 @@
+.amovie{
+	float: left;
+    font-size: 25px;
+    margin-top: 40px;
+    color: darkgrey;
+    border-bottom: 1px solid cyan;
+}
